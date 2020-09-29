@@ -3,5 +3,17 @@ This is a repository for a data-driven approach to predict the term deposit subs
 
 # Algorithms
 - Logistic Regression
-- Random Forest Classifier 
+- Random Forest Classifier
+
+# Requirements
+- Python
+- numpy
+- pandas
+- scikit-learn
+- Banking Datasets
+
+# Cite Us
+Please feel free to use our ideas and effort, but kindly cite us in your extension.
+
+Contributors: Surin Singh, Fan Zhang, Maryam Zulfiqar
 
