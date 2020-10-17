@@ -9,8 +9,10 @@ This is a repository for a data-driven approach to predict the term deposit subs
 - Python
 - numpy
 - pandas
+- matplotlib
+- seaborn
 - scikit-learn
-- Banking Datasets
+- Bank Marketing Dataset
 
 # Cite Us
 Please feel free to use our ideas and effort, but kindly cite us in your extension.
