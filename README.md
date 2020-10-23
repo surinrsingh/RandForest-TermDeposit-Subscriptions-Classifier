@@ -18,4 +18,3 @@ This is a repository for a data-driven approach to predict the term deposit subs
 Please feel free to use our ideas and effort, but kindly cite us in your extension.
 
 Contributors: Surin Singh, Fan Zhang, Maryam  Zulfiqar, Mohammadreza Arabkhani
-
